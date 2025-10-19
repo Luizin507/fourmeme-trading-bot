@@ -1,0 +1,25 @@
+{
+  "name": "fourmeme-trader",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modular four.meme trading script for Node.js",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "fourmeme",
+    "trading",
+    "bsc",
+    "ethers",
+    "crypto"
+  ],
+  "author": "Kin ED",
+  "license": "MIT",
+  "dependencies": {
+    "@fnzero/four-trading-sdk": "^1.1.1",
+    "adm-zip": "^0.5.16",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.13.1"
+  }
+}
