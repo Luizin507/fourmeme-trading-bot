@@ -25,6 +25,7 @@ cd fourmeme-trading-bot
 npm install
 ````
 
+
 ---
 
 ## 🚧 Configuration
@@ -78,5 +79,6 @@ The bot will start listening for new token launches and begin trading based on y
 
 > This tool is provided for **educational and experimental purposes only**.
 > Use it at your own risk. The authors are not responsible for any losses.
+
 
 ---
